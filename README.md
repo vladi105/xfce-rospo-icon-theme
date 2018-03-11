@@ -1,12 +1,12 @@
 xfce-rospo-icon-theme
 ===============
 
-РОСПО иконки для Роса Линукс XFCE. Версия 1.3
-За основы была взята замечательная тема Papirus https://store.kde.org/p/1166289/
+Форк РОСПО иконок для Роса Линукс XFCE. Версия 1.3
+За основу была взята замечательная тема Papirus https://store.kde.org/p/1166289/
 
 ## Изображение 
 
-![Screenshot](screenshot.svg)
+
 
 ## Особенности
 
@@ -17,3 +17,6 @@ xfce-rospo-icon-theme
 ## Сообщество
 РОСПО Дизайн-студия
 https://vk.com/rospodesign
+
+## Роса Линукс XFCE - студия сборки
+https://vk.com/xfce_rospo
